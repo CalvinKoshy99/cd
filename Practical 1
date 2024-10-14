@@ -1,4 +1,5 @@
-# Design a program to convert the given Right Linear Grammar into Left Linear Grammar.
+# Practical 1: Design a program to convert the given Right Linear Grammar into Left Linear Grammar.
+
 def print_productions():
     n = int(input("\nEnter the number of productions you want to convert: "))
 
